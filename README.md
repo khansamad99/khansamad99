@@ -4,6 +4,8 @@
 
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
 
+[StopStalk Profile(Coding Platforms)](https://www.stopstalk.com/user/profile/sam_khan99)
+
 [Connect to me on LinkedIn](https://www.linkedin.com/in/samadkhan99/)
 <!--
 **khansamad99/khansamad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
