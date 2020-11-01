@@ -4,9 +4,10 @@
 
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
 
-img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansamad99&layout=compact&hide=html" alt="khansamad99" /></p>
+![Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=khansamad99&layout=compact&hide=html)
 
 [StopStalk Profile(Coding Platforms)](https://www.stopstalk.com/user/profile/sam_khan99)
+
 
 [Connect to me on LinkedIn](https://www.linkedin.com/in/samadkhan99/)
 <!--
