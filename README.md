@@ -4,6 +4,8 @@
 
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khansamad99" alt="khansamad99" /> </p>
+
 [StopStalk Profile(Coding Platforms)](https://www.stopstalk.com/user/profile/sam_khan99)
 
 [Connect to me on LinkedIn](https://www.linkedin.com/in/samadkhan99/)
