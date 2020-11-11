@@ -13,7 +13,7 @@
   <img align="left" alt="Samad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
-
+<br/>
 
 
 - 🔭 I’m currently student in [Jaypee University of Information Technology](https://juit.ac.in/).
