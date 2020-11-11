@@ -20,10 +20,7 @@
 - 🌱 I’m currently learning more about Redux and React Native
 - 👯 I’m looking to collaborate in [Github]
 - 💬 Ask me about Web Development(NodeJS,ReactJS),Competetive Programing stuff.
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/samadkhan99/">
-                          <img align="left" alt="Samad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-                       </a>
-                       
+- 📫 How to reach me [samadk619@gmail.com]
 - 😄 Pronouns: He/His
 - ⚡ My Coding Profiles [StopStalk](https://www.stopstalk.com/user/profile/sam_khan99).
 
