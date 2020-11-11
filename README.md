@@ -21,13 +21,16 @@
 - 👯 I’m looking to collaborate in [Github]
 - 💬 Ask me about Web Development(NodeJS,ReactJS),Competetive Programing stuff.
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/samadkhan99/">
-  <img align="left" alt="Samad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+                          <img align="left" alt="Samad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+                       </a>
+                       
 - 😄 Pronouns: He/His
-- ⚡ My Coding Profiles: [sam_khan99 on StopStalk](https://www.stopstalk.com/user/profile/sam_khan99).
+- ⚡ My Coding Profiles [StopStalk](https://www.stopstalk.com/user/profile/sam_khan99).
+
 
 
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
+
 
 
 <a href="https://github.com/khansamad99">
