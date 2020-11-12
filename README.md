@@ -29,6 +29,9 @@
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=raystatic)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <a href="https://github.com/khansamad99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansamad99&theme=light&hide_langs_below=1" />
