@@ -29,7 +29,7 @@
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raystatic)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khansamad99)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
