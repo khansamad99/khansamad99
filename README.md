@@ -20,11 +20,12 @@
 - 🌱 I’m currently learning more about Redux and React Native
 - 👯 I’m looking to collaborate in [Github]
 - 💬 Ask me about Web Development(NodeJS,ReactJS),Competetive Programing stuff.
-- 📫 How to reach me [samadk619@gmail.com]
-- 😄 Pronouns: He/His
+- 📫 How to reach me **samadk619@gmail.com**
+- 😄 Fun fact **Chai over anything!!**
 - ⚡ My Coding Profiles [StopStalk](https://www.stopstalk.com/user/profile/sam_khan99).
 
 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://img.icons8.com/officel/48/000000/react.png" alt="bulma" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
 
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
 
