@@ -16,9 +16,8 @@
 <br/>
 
 
-- 🔭 I’m currently student in [Jaypee University of Information Technology](https://juit.ac.in/).
+- 🔭 I’m currently a SDE INTERN @[Paymentus](https://www.paymentus.com/).
 - 🌱 I’m currently learning more about Redux and React Native
-- 👯 I’m looking to collaborate in [Github]
 - 💬 Ask me about Web Development(NodeJS,ReactJS),Competetive Programing stuff.
 - 📫 How to reach me **samadk619@gmail.com**
 - 😄 Fun fact **Chai over anything!!**
