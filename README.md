@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samad Khan</h1>
-<h3 align="center">Software Engineer at <a href="https://www.paymentus.com/">Paymentus</a></h3>
+<h3 align="center">Software Engineer at <a href="https://www.bewakoof.com/">Bewakoof.com</a></h3>
 
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
 
