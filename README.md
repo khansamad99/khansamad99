@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khansamad99" alt="khansamad99" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Ruby on Rails and FastAPI**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
