@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samad Khan</h1>
-<h3 align="center">Software Engineer at <a href="https://www.linkedin.com/company/pt--tokopedia/">Tokopedia</a></h3>
+<h3 align="center">Software Engineer at <a href="https://www.linkedin.com/company/gohibe/">goHibe</a></h3>
 
 ![counter](https://ennf979e38ywgbn.m.pipedream.net)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khansamad99" alt="khansamad99" /></a> </p>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **System Design, Infra Management**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
