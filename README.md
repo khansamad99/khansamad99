@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samadk619@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19xOO9iA9bMFvyaQPYaea0aTh0WliGQvx/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mecv_Sc8roSdJz00XhrPqinH_Uz9bfzr/view?usp=sharing)
 
 - ⚡ Fun fact **Chai over anything!!**
 
