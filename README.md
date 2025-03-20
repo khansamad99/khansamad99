@@ -1,49 +1,129 @@
 <h1 align="center">Hi 👋, I'm Samad Khan</h1>
-<h3 align="center">Software Engineer at <a href="https://www.linkedin.com/company/gohibe/">goHibe</a></h3>
+<h3 align="center">Senior Backend Engineer | NestJS | Node.js | TypeScript | PostgreSQL | Redis</h3>
 
-![counter](https://ennf979e38ywgbn.m.pipedream.net)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khansamad99" alt="khansamad99" /></a> </p>
-
-- 🌱 I’m currently learning **System Design, Infra Management**
-
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 💬 Ask me about **NodeJs,ReactJs,Competitive Programming**
-
-- 📫 How to reach me **samadk619@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mecv_Sc8roSdJz00XhrPqinH_Uz9bfzr/view?usp=sharing)
-
-- ⚡ Fun fact **Chai over anything!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samadkhan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samadkhan99" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006512253262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006512253262" height="30" width="40" /></a>
-<a href="https://instagram.com/___samadkhan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___samadkhan_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sam_khan99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sam_khan99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/codee_it_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codee_it_99" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sam_khan99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sam_khan99" height="30" width="40" /></a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/samadkhan99/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samadk619@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://codeforces.com/profile/sam_khan99">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/sam_khan99">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khansamad99&show_icons=true&locale=en&layout=compact" alt="khansamad99" /></p>
+Experienced Software Engineer with 3.5+ years of expertise in backend development, system design, and scalable architecture. Currently working at [MVP ROCKETS](https://mvprockets.com/) where I lead development of veterinary practice management software serving 250+ patients daily across multiple clinics.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khansamad99&show_icons=true&locale=en" alt="khansamad99" /></p>
+- 🏢 Currently working at **MVP ROCKETS as a Software Engineer**
+- 🌱 Currently exploring **System Design, Infrastructure Management, and Cloud Architecture**
+- 💼 Previously worked at **GoHibe, Tokopedia, Bewakoof.com, and Paymentus**
+- 🎓 Experience with **NestJS, Node.js, TypeScript, PostgreSQL, MongoDB, Redis, AWS, Docker**
+- 🏆 Competitive programming enthusiast on **CodeChef, Codeforces, and HackerRank**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khansamad99&" alt="khansamad99" /></p>
+## 💻 Technical Skills
 
+<details>
+<summary><b>Programming Languages</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</p>
+</details>
 
+<details>
+<summary><b>Backend Technologies</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
+</p>
+</details>
 
-</div>
+<details>
+<summary><b>Frontend Technologies</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+</details>
 
-<!--
-**khansamad99/khansamad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary><b>Databases & Caching</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+</details>
 
+<details>
+<summary><b>DevOps & Cloud</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+</details>
 
--->
+## 🏆 Professional Experience
+
+### MVPRockets | Software Engineer (May 2024 - Present)
+- Led development of veterinary practice management platform serving 250+ patients daily
+- Built authentication system with role-based access control for 4 user types
+- Implemented sophisticated reminder system with configurable rules engine
+- Executed complex data migration of 30K+ patient records with zero data loss
+- Implemented diagnostic notes system with 30+ customizable templates
+
+### GoHibe | Software Engineer (March 2023 - April 2024)
+- Developed APIs for user profiles, posts, and follow systems
+- Built Firebase FCM integrations for real-time notifications
+- Created asset pipeline tool for fashion designers using S3
+
+### Tokopedia | Software Engineer (April 2022 - November 2022)
+- Developed library for integrating cron jobs from fintech services
+- Enhanced face detection for KYC, increasing success rate from 30% to 80%
+- Implemented PII encryption for sensitive data in loan applications
+
+### Bewakoof.com | Software Engineer (September 2021 - April 2022)
+- Developed gamification service used by 1.5M users/month
+- Implemented app streaks feature that increased app open rate by 16%
+- Fixed critical bugs in payment and wallet systems
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khansamad99&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khansamad99&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansamad99&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 📫 How to reach me
+
+- Email: samadk619@gmail.com
+- LinkedIn: [linkedin.com/in/samadkhan99](https://www.linkedin.com/in/samadkhan99/)
+- Resume: [View Resume](https://drive.google.com/file/d/1mecv_Sc8roSdJz00XhrPqinH_Uz9bfzr/view?usp=sharing)
+
+---
+
+⚡ Fun fact: **Chai over anything!
