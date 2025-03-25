@@ -122,7 +122,7 @@ Experienced Software Engineer with 3.5+ years of expertise in backend developmen
 
 - Email: samadk619@gmail.com
 - LinkedIn: [linkedin.com/in/samadkhan99](https://www.linkedin.com/in/samadkhan99/)
-- Resume: [View Resume](https://drive.google.com/file/d/1mecv_Sc8roSdJz00XhrPqinH_Uz9bfzr/view?usp=sharing)
+- Resume: [View Resume](https://drive.google.com/file/d/1whOUO5XH5Xomi6HTiEB6Lq40NDGho0pG/view?usp=sharing)
 
 ---
 
