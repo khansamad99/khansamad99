@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samad Khan</h1>
-<h3 align="center">Senior Backend Engineer | NestJS | Node.js | TypeScript | PostgreSQL | Redis</h3>
+<h3 align="center">Senior Backend Engineer | NestJS | Node.js | Golang | Database | GenAI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samadkhan99/">
