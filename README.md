@@ -18,11 +18,11 @@
 
 ## 🚀 About Me
 
-Experienced Software Engineer with 3.5+ years of expertise in backend development, system design, and scalable architecture. Currently working at [MVP ROCKETS](https://mvprockets.com/) where I lead development of veterinary practice management software serving 250+ patients daily across multiple clinics.
+Experienced Software Engineer with 4+ years of expertise in backend development, system design, and scalable architecture. Currently working at [Playsuper](https://playsuper.club/) where I lead development of veterinary practice management software serving 250+ patients daily across multiple clinics.
 
 - 🏢 Currently working at **MVP ROCKETS as a Software Engineer**
 - 🌱 Currently exploring **System Design, Infrastructure Management, and Cloud Architecture**
-- 💼 Previously worked at **GoHibe, Tokopedia, Bewakoof.com, and Paymentus**
+- 💼 Previously worked at **MVPRockets, GoHibe, Tokopedia, Bewakoof.com, and Paymentus**
 - 🎓 Experience with **NestJS, Node.js, TypeScript, PostgreSQL, MongoDB, Redis, AWS, Docker**
 - 🏆 Competitive programming enthusiast on **CodeChef, Codeforces, and HackerRank**
 
